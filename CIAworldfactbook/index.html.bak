@@ -1,0 +1,24 @@
+<!DOCTYPE html>
+<html>
+	<head>
+		<meta charset="UTF-8" />
+		<title>CIA World Fact Book Website</title>
+	</head>
+	<body>
+		<h1>CIA World Fact Book Website</h1>
+		
+		<p> Please click on the name of the countries listed below for more information</p>
+		
+		<a href="antigua_and_barbuda/antigua_and_barbuda.html"> <img src="https://d1nhio0ox7pgb.cloudfront.net/_img/v_collection_png/64x64/shadow/flag_antigua_and_barbuda.png"/>  Antigua and Barbuda</a>
+		<a href="barbados/barbados.html"> <img src="https://www.iconexperience.com/_img/v_collection_png/64x64/shadow/flag_barbados.png"/>  Barbados </a>
+		<a href="trinidad_and_tobago/trinidad_and_tobago.html"> <img src="https://www.iconexperience.com/_img/v_collection_png/64x64/shadow/flag_trinidad_and_tobago.png"/>  		Trinidad and Tobago </a>
+		
+		<p>	We are the Nation’s first line of defense. We accomplish what others 
+			cannot accomplish and go where others cannot go. </p>
+					
+		<p>	We collect and analyze foreign intelligence and conduct covert action. 
+			U.S. policymakers, including the President of the United States, make 
+			policy decisions informed by the information we provide.</p>
+	
+	</body>
+</html>
